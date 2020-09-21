@@ -14,7 +14,7 @@ function setup() {
   textSize(32)
   textAlign(CENTER)
   fill('white')
-  text("Press mouse to grow",width/2,height/4);
+  text("Click to grow",width/2,height/4);
 
   //gambo
   noFill()
